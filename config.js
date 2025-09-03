@@ -37,10 +37,9 @@ var config = {
         "funniest": "./imgs/funny.jpg",
         "amazing guy I met🥳": "./imgs/xiaokeai.jpg",
 
-
-        // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
+    
     desc: {
         turn_on: "Start",
         play: "Music",
@@ -48,7 +47,7 @@ var config = {
         balloons_flying: "umm missing something?",
         cake_fadein: "Cake?",
         light_candle: "Light Candle?",
-        wish_message: "Happy Birthday",
+        wish_message: "Happy Birthday!",
         story: "A MESSAGE FOR YOU",
     }
 };
